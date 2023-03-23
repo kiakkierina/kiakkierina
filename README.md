@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, name's Caterina Saccon
 
-<!--
-**kiakkierina/kiakkierina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## dunno what I'm doing
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 30 y o :cherry_blossom:
+
+- lives in Turin
+
+- adulting (almost)
+
+<br>
+<br>
+
+My [Github] (https://github.com/kiakkierina/) is still a mess but I'm getting there.
+<br>
+<br>
+<br>
+
+### here's my skills (not true)
+
+<br>
+
+
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
